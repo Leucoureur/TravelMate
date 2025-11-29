@@ -4,7 +4,7 @@ A full-stack travel application with modular architecture and extensive mock dat
 
 ## 🏗️ Architecture
 
-### Backend Structure (Professional & Maintainable)
+### Backend Structure 
 
 ```
 backend/
@@ -37,26 +37,6 @@ backend/
     ├── __init__.py
     └── routes.py             # Sharing & favorites
 ```
-
-## ✨ New Features
-
-### 💰 Budget Range 
-- Set **minimum** and **maximum** budget
-- Flexible price filtering
-- Better matching algorithm
-
-### 📊 Enhanced Mock Data
-- **26 destinations** across 6 continents
-- Realistic flight prices and durations
-- 8+ hotels per destination (all star ratings)
-- Climate-aware weather forecasts
-- 12 airline options
-
-### 🎯 Better AI Suggestions
-- Scores destinations on multiple factors
-- Considers value for money
-- Seasonal recommendations
-- Returns top 8 matches
 
 ## 🚀 Quick Start
 
